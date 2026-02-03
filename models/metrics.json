@@ -1,0 +1,7 @@
+{
+    "model_name": "Logistic Regression (scaled, class-weighted)",
+    "accuracy": 0.7842441447835344,
+    "precision_churn": 0.5683168316831683,
+    "recall_churn": 0.7694369973190348,
+    "f1_churn": 0.6537585421412301
+}
