@@ -35,7 +35,7 @@ Customer churn poses a significant challenge for telecommunications companies, d
 With a baseline churn rate of **26.54%**, the company faces substantial revenue loss. Understanding *why* customers leave and *who* is most likely to churn enables proactive retention strategies.
 
 ### Solution Impact
-- Identified high-risk customer segments representing **₹456,116.60** in monthly revenue
+- Identified high-risk customer segments representing **₹4,020,759.052320** in monthly revenue
 - Calculated **₹4,021,540.63** in potential annual revenue retention using SQL analysis
 - Developed predictive model achieving **82% accuracy** and **62% recall**
 - Quantified that converting 20% of month-to-month contracts could reduce churn by 6-8 percentage points
@@ -94,7 +94,7 @@ Used **PostgreSQL** via **pgAdmin** to calculate revenue metrics and quantify ch
 |--------|-------|-------------|
 | **Monthly Revenue** | ₹456,116.60 | Total monthly recurring revenue from all customers |
 | **Annual Revenue** | ₹5,473,399.20 | Projected annual revenue |
-| **Annual Revenue Retention** | ₹4,021,540.63 | Estimated revenue after accounting for 26.54% churn |
+| **Annual Revenue Retention** | ₹4,020,759.052320 | Revenue after accounting for 26.54% churn |
 
 ### Business Value
 SQL analysis provided concrete financial metrics that:
